@@ -737,7 +737,7 @@ export default function Hero() {
                 </a>
 
                 <a
-                  href="https://drive.google.com/file/d/1JitMyPLRyolZyvX5CCnbRVz-EJcMAoYU/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1FpUPGIUf18SCeUzeYyTmuteLuhupqRga/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="px-5 md:px-7 py-2.5 md:py-3.5 rounded-lg font-bold text-xs md:text-sm border-2 transition-all duration-300 flex items-center gap-2 justify-center hover:scale-105"
