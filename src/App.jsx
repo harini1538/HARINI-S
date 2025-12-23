@@ -13,7 +13,7 @@ function App() {
   useCursorTrail();
 
   useEffect(() => {
-    document.title = 'Ethereal Shadows — Harini\'s Digital Universe';
+    document.title = 'Harini\'s Portfolio';
   }, []);
 
   return (
